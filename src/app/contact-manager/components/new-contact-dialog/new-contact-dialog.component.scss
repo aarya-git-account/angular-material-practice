@@ -1,0 +1,26 @@
+.examplecontainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.examplecontainer > * {
+  width: 100%;
+}
+
+.mat-error{
+  display: block;
+}
+
+.mat-icon{
+  font-size: 1.25em;
+}
+
+.mat-raised-button
+{
+  justify-content: space-between;
+}
+
+.but1{
+  margin-left: 20px;
+  margin-right: 160px;
+}
